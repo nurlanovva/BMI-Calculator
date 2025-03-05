@@ -1,0 +1,22 @@
+@startuml
+class BMICalculator {
+    - menu_bar
+    - weight_label
+    - height_label
+    - weight_input
+    - height_input
+    - calculate_button
+    - result_label
+    - status_label
+    + initUI()
+    + calculate()
+    + clear_inputs()
+    + show_help()
+}
+
+class calculate_bmi {
+    + calculate_bmi()
+}
+
+BMICalculator --> calculate_bmi : uses
+@enduml
