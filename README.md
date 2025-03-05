@@ -14,3 +14,4 @@ Output: BMI: 22.2, Status: Normal weight
 
 ## Diagram
 ![Diagram](./diagram.png)
+****![image](https://github.com/user-attachments/assets/b431e275-7a21-4db9-9a1b-47b813da928c)
